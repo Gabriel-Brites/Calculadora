@@ -1,0 +1,22 @@
+{
+  "name": "calculadora",
+  "version": "1.0.0",
+  "description": "simulacao de uma calculadora",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gabriel-Brites/Calculadora.git"
+  },
+  "keywords": [
+    "calculadora"
+  ],
+  "author": "gabriel-brites <majorbiel@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Gabriel-Brites/Calculadora/issues"
+  },
+  "homepage": "https://github.com/Gabriel-Brites/Calculadora#readme"
+}
