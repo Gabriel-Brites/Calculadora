@@ -1,6 +1,6 @@
 {
   "name": "calculadora-biel",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "simulacao de uma calculadora",
   "main": "index.js",
   "scripts": {
