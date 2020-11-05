@@ -38,11 +38,15 @@ function div () {
     return res;
 }
 
-
+function calcUuid(){
+    const { v4: uuidv4 } = require('uuid');
+    return uuidv4();
+}
 
 module.exports = {
     soma,
     sub,
     mult,
-    div
+    div,
+    calcUuid
 }

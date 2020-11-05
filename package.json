@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Gabriel-Brites/Calculadora/issues"
   },
-  "homepage": "https://github.com/Gabriel-Brites/Calculadora#readme"
+  "homepage": "https://github.com/Gabriel-Brites/Calculadora#readme",
+  "dependencies": {
+    "uuid": "^8.3.1"
+  }
 }
