@@ -1,3 +1,5 @@
+const { v4: uuidv4 } = require('uuid');
+
 function soma () {
     var res = arguments[0];
     if (arguments.length>1){
@@ -39,7 +41,6 @@ function div () {
 }
 
 function calcUuid(){
-    const { v4: uuidv4 } = require('uuid');
     return uuidv4();
 }
 
